@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2020 The LineageOS Project
+# Copyright (C) 2020 PixysOS
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_davinci.mk
+    $(LOCAL_DIR)/pixys_davinci.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_davinci-user \
-    lineage_davinci-userdebug \
-    lineage_davinci-eng
+    pixys_davinci-user \
+    pixys_davinci-userdebug \
+    pixys_davinci-eng
